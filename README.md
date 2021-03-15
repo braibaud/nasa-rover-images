@@ -1,8 +1,10 @@
-# NASA Rover Images Downloader
+# NASA Rover Images
+
+## Downloader
 
 Allows downloading raw images taken by `Perseverance` and `Curiosity` rovers. The file `dl.py` is located in the `commands` folder.
 
-```
+```bash
 usage: dl.py [-h] [-c CACHE_LOCATION] [-r {perseverance, curiosity}] [-t] [-i]
 
 NASA raw images downloader
@@ -30,3 +32,10 @@ optional arguments:
 The images will be saved in the `{CACHE_LOCATION}/{ROVER_NAME}` folder.
 
 In this folder, an additional file named `images_{ROVER_NAME}.npz` keeps track of the images already downloaded.
+
+## Post-Processing
+
+The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` provides some examples of image `DEBAYERING` using `python`.
+
+![](debayer.jpg)
+

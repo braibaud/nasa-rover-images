@@ -4,6 +4,19 @@ import aiofiles
 import aiohttp
 import argparse as ap
 import json
+import os
+import ntpath
+
+
+def extract_elements_from_path(path: str) -> tuple:
+    folder, file = os.path.split(
+        p=os.path.abspath(
+            path=path))
+
+    file_name, file_ext = os.path.splitext(
+        p=file)
+    
+    return folder, file_name, file_ext
 
 
 async def fetch_json(session, url):
