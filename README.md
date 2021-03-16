@@ -47,7 +47,7 @@ The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` 
 
 #### A landscape panorama (Perseverance, Sol 4)
 
-* **Full size image:** [samples/panorama-2.jpg](samples/panorama-2.jpg)
+* **Full size image:** [samples/panorama-2.jpg](https://media.githubusercontent.com/media/braibaud/nasa-rover-images/master/samples/panorama-2.jpg)
 * **Resolution:** 7236x3074 (22MP)
 * **Stitch:** 80 images
 * **Source Credits:** NASA / JPL-Caltech
@@ -57,7 +57,7 @@ The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` 
 
 #### Another landscape panorama (Perseverance, Sol 4)
 
-* **Full size image:** [samples/panorama-3.jpg](samples/panorama-3.jpg)
+* **Full size image:** [samples/panorama-3.jpg](https://media.githubusercontent.com/media/braibaud/nasa-rover-images/master/samples/panorama-3.jpg)
 * **Resolution:** 5207x1048 (5MP)
 * **Stitch:** 79 images
 * **Source Credits:** NASA / JPL-Caltech
@@ -67,7 +67,7 @@ The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` 
 
 #### Landscape panorama (Curiosity, Sol 3042)
 
- * **Full size image:** [samples/panorama-5.jpg](samples/panorama-5.jpg)
+ * **Full size image:** [samples/panorama-5.jpg](https://media.githubusercontent.com/media/braibaud/nasa-rover-images/master/samples/panorama-5.jpg)
  * **Resolution:** 9721x2082 (20MP)
  * **Stitch:** 72 images
  * **Source Credits:** NASA / JPL-Caltech
@@ -77,7 +77,7 @@ The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` 
 
 #### Close view of "Mt-Mercou" (Curiosity, Sol 3051)
 
- * **Full size image:** [samples/panorama-4.jpg](samples/panorama-4.jpg)
+ * **Full size image:** [samples/panorama-4.jpg](https://media.githubusercontent.com/media/braibaud/nasa-rover-images/master/samples/panorama-4.jpg)
  * **Resolution:** 8697x2932 (25MP)
  * **Stitch:** 97 images
  * **Source Credits:** NASA / JPL-Caltech
@@ -87,7 +87,7 @@ The **Jupyter** notebook `NASA Rover Images Post-Processing - DEBAYERING.ipynb` 
 
 #### Bottom-left view of "Mt-Mercou" (Curiosity, Sol 3058)
 
- * **Full size image:** [samples/view-1.jpg](samples/view-1.jpg)
+ * **Full size image:** [samples/view-1.jpg](https://media.githubusercontent.com/media/braibaud/nasa-rover-images/master/samples/view-1.jpg)
  * **Resolution:** 4381x2436 (11MP)
  * **Stitch:** 40 images
  * **Source Credits:** NASA / JPL-Caltech

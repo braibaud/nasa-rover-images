@@ -5,7 +5,6 @@ import aiohttp
 import argparse as ap
 import json
 import os
-import ntpath
 
 
 def extract_elements_from_path(path: str) -> tuple:
